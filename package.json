@@ -14,7 +14,7 @@
     "cookie-parser": "^1.4.5",
     "debug": "^4.2.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fuel-rest": "^3.2.2",
     "helmet": "^4.1.1",
     "http-errors": "^1.8.0",
